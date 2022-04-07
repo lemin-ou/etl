@@ -3,3 +3,5 @@ node_modules/
 schema*.js
 
 *.output.json
+
+dynamodb_create_table.js
